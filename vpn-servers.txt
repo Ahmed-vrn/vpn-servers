@@ -1,6 +1,9 @@
 # Working VPN Servers
-# Total servers: 2
+# Total servers: 5
 # Source: VPN Working List skill
 
-vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@50.7.176.71:443?encryption=none&flow=xtls-rprx-vision&pbk=mvftK1HPHzpwowTw8ElAwf-GEECYx38GCTq4ihhEmAY&security=reality&sni=nl-modx.nodexphere.net&type=tcp&fp=edge#Бесплатный
-vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@50.7.177.162:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=RAAelLRnSImkMKUKvue_QLRljXL6bTgJqXyCkCuhugo&sni=gmghhb.wey-land.net#0490%20|%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20|%20VLESS%20|%20%F0%9F%93%BA%20YT%20|%20TG:%20@YoutubeUnBlockRu
+trojan://auRVImItMy7CqRAY7FC8Wg@ipfast.kingmna.com:443?allowInsecure=1&host=copy_az_channel_NUFiLTER_10i.global.ssl.fastly.net.&path=%2FTELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&sni=cdn.akamai.steamstatic.com&type=ws&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://1547ed3d-3bb7-4153-afdc-8eb3e9373c84@95.129.236.50:443?encryption=none&fp=firefox&host=video.get.downloader-pet.xyz&path=/gateway/v1/ws/de963c1a03a37c66383da198813099b1&security=tls&sni=video.get.downloader-pet.xyz&type=ws#🇺🇸
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:47691?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=6PbC7GxOg_YdXya-53llPReUzoU_yknQbkDvI4uorBg&sid=2905326a&sni=m.media-amazon.com#0361%20|%20%F0%9F%8C%90%20Unknown%20|%20VLESS%20|%20TG:%20@YoutubeUnBlockRu
+vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?mode=auto&path=%2Fccxf5snr06b8xxb6%2F%3F&security=tls&alpn=h2&encryption=none&insecure=0&host=is-tw-relay.cdn.cachefleet.com&fp=firefox&type=xhttp&allowInsecure=0&sni=tansy-wharf.cdn.cachefleet.com#🌐
+vless://b229d38c-35ec-4a0b-9c86-8fceba243d6c@95.129.234.108:8443/?type=xhttp&encryption=none&host=fafeqdhlett2p5la6d.cdn.cachefleet.com&path=%2Fccxf5snr06b8xxb6&mode=auto&security=tls&sni=fafeqdhlett2p5la6d.cdn.cachefleet.com&alpn=h2#🇷🇺
